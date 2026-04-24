@@ -3,9 +3,9 @@
 The CIC-IoT-2023 dataset is used in this study.
 Due to size constraints, the dataset is not included in this repository.
 
-pip install -r requirements.txt
-python train_cnn.py
-python fgsm_attack.py
+//pip install -r requirements.txt
+//python train_cnn.py
+//python fgsm_attack.py
 
 
 All experiments were conducted using fixed random seeds and predefined configurations provided in the /configs directory.
